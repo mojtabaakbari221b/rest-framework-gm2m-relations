@@ -49,3 +49,5 @@ class GM2MSerializer(GenericRelatedField):
         except KeyError :
             raise serializers.ValidationError(self.error_messages['no_model_match'])
     
+    def get_choices(self, cutoff=None):
+        return {}
