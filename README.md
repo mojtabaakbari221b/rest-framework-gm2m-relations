@@ -10,7 +10,7 @@ Any currently-supported combination of [rest-framework-generic-relations](https:
 
 Install using `pip` :
 ```sh
-pip install gm2m_relations
+pip install gm2m-relations
 ```
 
 # API Reference

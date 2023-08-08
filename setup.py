@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setuptools.setup(
     name="gm2m_relations",
-    version="1.0.0",
+    version="1.0.1",
     author="mojtaba akbari",
     author_email="mojtaba.akbari.221b@gmail.com",
     packages=["gm2m_relations"],
