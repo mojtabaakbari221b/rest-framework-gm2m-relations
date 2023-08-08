@@ -1,6 +1,6 @@
 # gm2m_relations
 
-This library implements [Django REST Framework](http://www.django-rest-framework.org/) serializers to handle generic many to many relations.
+The `rest-framework-gm2m-relations` library provides read/write serialization for [django-gm2m](https://github.com/tkhyn/django-gm2m) field.
 
 # Requirements
 
